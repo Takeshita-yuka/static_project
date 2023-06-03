@@ -2,9 +2,7 @@ package static_project;
 
 public class PracticeIf {
 
-	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-		
+	public static void main(String[] args) {		
 		
 		for (int i = 1; i <= 100; i++) {
 			if (i % 15 == 0) {
